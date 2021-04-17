@@ -23,7 +23,7 @@ public class SwaggerConfig {
 	}
 
 	private ApiInfo apiInfo() {
-		return new ApiInfoBuilder().title("CadastroAlunos").description("API do Projeto Cadastro Alunos").version("2.0")
+		return new ApiInfoBuilder().title("CadastroAlunos").description("API  Cadastro Alunos").version("2.0")
 				.contact(contact()).build();
 	}
 
